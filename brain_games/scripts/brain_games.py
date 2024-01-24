@@ -3,10 +3,10 @@ import brain_games.scripts.brain_even
 
 
 def main():
-    print("Welcome to the Brain Games!")
+    print("")
 
 
 if __name__ == '__main__':
     main()
 
-brain_games.scripts.brain_even.welcome_user()
+brain_games.scripts.brain_even.main()

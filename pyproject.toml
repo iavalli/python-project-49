@@ -2,7 +2,7 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain-games is a collection of simple mathematical games to train your brain"
 authors = ["Irina Valieva <iavalieva.ds@gmail.com>"]
 readme = "README.md"
 packages = [

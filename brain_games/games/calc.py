@@ -1,6 +1,5 @@
 import random
-from brain_games.constants import MATH_ACTIONS, CALC_INSTRUCTION
-from brain_games.runner import run_game
+from brain_games.constants import MATH_ACTIONS
 
 
 def get_expression_and_result():
@@ -10,7 +9,3 @@ def get_expression_and_result():
     result = eval(expression)
 
     return expression, str(result)
-
-
-def run_calc_game():
-    run_game(get_expression_and_result, CALC_INSTRUCTION)

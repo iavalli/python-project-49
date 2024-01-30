@@ -3,14 +3,16 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/6c1addaea09c6102d654/maintainability)](https://codeclimate.com/github/iavalli/python-project-49/maintainability)
 
-https://asciinema.org/a/16c8Ls5yIDHSyDVDlUPqYGv2p
+BRAIN-GAMES is a collection of simple math games. This is my first Python project.
 
-https://asciinema.org/a/GLNlNW3xYWQijiSr7bpik0e4C
+Below are the previews of games.
 
-https://asciinema.org/a/umitr9IwPy2CMqCaDvf1xJlTr
+BRAIN-EVEN: [![asciicast](https://asciinema.org/a/16c8Ls5yIDHSyDVDlUPqYGv2p.svg)](https://asciinema.org/a/16c8Ls5yIDHSyDVDlUPqYGv2p)
 
-https://asciinema.org/a/an92QnqZw18Zpb5SdiwlID0T3
+BRAIN-CALC: [![asciicast](https://asciinema.org/a/GLNlNW3xYWQijiSr7bpik0e4C.svg)](https://asciinema.org/a/GLNlNW3xYWQijiSr7bpik0e4C)
 
-https://asciinema.org/a/vxCHB8TmAHlKPLm2qB3tsiRXS
+BRAIN-GCD: [![asciicast](https://asciinema.org/a/umitr9IwPy2CMqCaDvf1xJlTr.svg)](https://asciinema.org/a/umitr9IwPy2CMqCaDvf1xJlTr)
+
+BRAIN-PROGRESSION: [![asciicast](https://asciinema.org/a/an92QnqZw18Zpb5SdiwlID0T3.svg)](https://asciinema.org/a/an92QnqZw18Zpb5SdiwlID0T3)
 
 BRAIN-PRIME: [![asciicast](https://asciinema.org/a/vxCHB8TmAHlKPLm2qB3tsiRXS.svg)](https://asciinema.org/a/vxCHB8TmAHlKPLm2qB3tsiRXS)

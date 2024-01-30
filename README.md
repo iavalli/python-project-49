@@ -5,6 +5,12 @@
 
 BRAIN-GAMES is a collection of simple math games. This is my first Python project.
 
+PROJECT DEPENDENCIES:
+
+python = >=3.8.1,<4.0
+prompt = ^0.4.1
+flake8 = ^7.0.0
+
 Below are the previews of games.
 
 BRAIN-EVEN: [![asciicast](https://asciinema.org/a/16c8Ls5yIDHSyDVDlUPqYGv2p.svg)](https://asciinema.org/a/16c8Ls5yIDHSyDVDlUPqYGv2p)

@@ -4,6 +4,12 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/6c1addaea09c6102d654/maintainability)](https://codeclimate.com/github/iavalli/python-project-49/maintainability)
 
 BRAIN-GAMES is a collection of simple math games. This is my first Python project.
+It includes 5 games:
+1. Brain-even
+2. Brain-calc
+3. Brain-gcd
+4. Brain-progression
+5. Brain-prime
 
 PROJECT DEPENDENCIES:
 
